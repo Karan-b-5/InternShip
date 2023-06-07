@@ -4,4 +4,4 @@ In this HTML, CSS and JavaScript is used.
  
 Below is the Homepage of the Website :-
 
-![HomePage]([http://url/to/img.png](https://github.com/Karan-b-5/InternShip/blob/main/Video_Conferencing_Website/Homepage.png))
+![HomePage](https://github.com/Karan-b-5/InternShip/blob/main/Video_Conferencing_Website/Homepage.png)
